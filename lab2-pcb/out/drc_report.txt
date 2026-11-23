@@ -1,0 +1,10 @@
+** Drc report for /home/user/lab2-pcb/kicad/lab2_guid_pcb.kicad_pcb **
+** Created on 2026-11-23 15:11:40 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
